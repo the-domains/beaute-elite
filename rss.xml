@@ -4,8 +4,15 @@
         <description><![CDATA[Beauté Élite]]></description>
         <link>https://thegrid.ai/beaute-elite/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 03:07:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 03:31:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/beaute-elite/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact]]></title>
+            <description><![CDATA[<article><h1>Contact</h1><p>Nos coordonées:</p></article>]]></description>
+            <link>https://thegrid.ai/beaute-elite/contact/index.html</link>
+            <guid isPermaLink="false">49de02ea-8c26-48a1-a37d-f567ad75fbb2</guid>
+            <pubDate>Thu, 07 Apr 2016 03:31:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SERVICES]]></title>
             <description><![CDATA[<article><h1>SERVICES</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8372d3d38dbc992e21f087d580901941bce8cf2c.jpg"></article>]]></description>
