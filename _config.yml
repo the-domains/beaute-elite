@@ -1,7 +1,7 @@
 name: Beauté Élite
 favicon: null
-layout_spectrum: 0.7010543702635914
-typography_spectrum: 0.9560362428892404
+layout_spectrum: 0.13627
+typography_spectrum: 0.75704
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#010101'
+    - '#ffffff'
+    - '#ef1721'
+    - '#4f4f4f'
+    - '#808080'
   brandStrength: 0.3086480521596968
   lightness: 0.033687434159219265
   saturation: 0.26586505305022
